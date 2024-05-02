@@ -6,4 +6,3 @@ Our ongoing project develops a tiny device for efficient large language models (
 1. **Hardware Constraints and Power Management:** limited CPU performance, small  memory, lack of powerful GPU and short battery life. 
 2. **Model Efficiency and Size:** Developing LLMs that are both small enough to fit on low-power devices and efficient enough to perform at near-desktop levels is technically challenging.
 3. **Multi-modality Processing:** Integrating and processing multiple types of inputs: text, audio, code and sensor data.
-![image](https://github.com/JimmyLi-Network/tiny_LLM_device/assets/28814261/5ea6d580-b756-47f5-ae07-563a9a4b5fb9)
